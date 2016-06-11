@@ -1,7 +1,7 @@
 var br = new BookReader();
 br.IIIF({
-    url: 'http://dms-data.stanford.edu/data/manifests/Walters/qm670kv1873/manifest.json',
-    sequenceId : 'http://dms-data.stanford.edu/data/manifests/Walters/qm670kv1873/normal',
+    url: 'http://wellcomelibrary.org/iiif/b28114036/manifest',
+    sequenceId : 'http://wellcomelibrary.org/iiif/b28114036/sequence/s0',
     maxWidth: 800
 });
 
